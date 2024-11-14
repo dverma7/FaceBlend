@@ -1,0 +1,11 @@
+C:\Users\dverma7\source\repos\FaceBlend\bin\Debug\FaceBlend.dll
+C:\Users\dverma7\source\repos\FaceBlend\bin\Debug\FaceBlend.pdb
+C:\Users\dverma7\source\repos\FaceBlend\obj\Debug\FaceBlend.csproj.AssemblyReference.cache
+C:\Users\dverma7\source\repos\FaceBlend\obj\Debug\FaceBlend.csproj.CoreCompileInputs.cache
+C:\Users\dverma7\source\repos\FaceBlend\obj\Debug\FaceBlend.dll
+C:\Users\dverma7\source\repos\FaceBlend\obj\Debug\FaceBlend.pdb
+C:\Users\dverma7\source\repos\FaceBlend\bin\Debug\FaceBlend.dll.config
+C:\Users\dverma7\source\repos\FaceBlend\bin\Debug\log4net.dll
+C:\Users\dverma7\source\repos\FaceBlend\bin\Debug\log4net.pdb
+C:\Users\dverma7\source\repos\FaceBlend\bin\Debug\log4net.xml
+C:\Users\dverma7\source\repos\FaceBlend\obj\Debug\FaceBlend.csproj.Up2Date
